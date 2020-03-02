@@ -35,6 +35,8 @@ The 15th element is 1220
 
 I created two solutions, the first one is lineal and the complexity is O(3 + 3n) and the execution time for the 15th element is 0.000060796737670898 seconds, the second solution is recursive and its complexity is O(2^n) and the execution time for the 15th element is  0.0003662109375 seconds
 
+Clearly, the linear solution has a better performance than the exponential one.
+
 - What clean code principles you have been used, and why?
 
 Effective naming strategy: variable names are meaningful, making easy to a developer understand the code.
