@@ -21,6 +21,10 @@ To execute the programs:
   joniuz@nas $ python sequence_recursive.py
  ```
 
+Example:
+
+![example](https://user-images.githubusercontent.com/12822475/75650235-70356f80-5ca9-11ea-9606-cd5f4a5c5d81.png)
+
 ## Questions
 
 - What is the 15th element of the sequent?
