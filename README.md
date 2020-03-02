@@ -21,20 +21,20 @@ To execute the programs:
 
 ## Questions
 
-What is the 15th element of the sequent?
+- What is the 15th element of the sequent?
 
 The 15th element is 1220
 
-What is your solution time and space complexity, regarding for the n(th) element of the sequent?
+- What is your solution time and space complexity, regarding for the n(th) element of the sequent?
 
 I created two solutions, the first one is lineal and the complexity is O(3 + 3n) and the execution time for the 15th element is 0.000060796737670898 seconds, the second solution is recursive and its complexity is O(2^n) and the execution time for the 15th element is  0.0003662109375 seconds
 
-What clean code principles you have been used, and why?
+- What clean code principles you have been used, and why?
 
 Effective naming strategy: variable names are meaningful, making easy to a developer understand the code.
 K.I.S.S.: The code is simple, avoiding the use of unnecessary libraries and functions
 DRY (Don't Repeat Yourself): Every function as has the same parameter so is easy to interchange the function without modify the user interface.
 
-Bonus: can you make your code recursive? If yes, what would be your time and space complexity?
+- Bonus: can you make your code recursive? If yes, what would be your time and space complexity?
 
 The python program sequence_recursive.py is the recursive solution. The execution time for the 15th element is 0.0003662109375 seconds and the complexity is O(2^n)
