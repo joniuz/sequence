@@ -15,9 +15,11 @@ sequence_recursive.py is a recursive approach to solve the problem to calculate 
 
 To execute the programs:
 
+```
   joniuz@nas $ python sequence_lineal.py
 
   joniuz@nas $ python sequence_recursive.py
+ ```
 
 ## Questions
 
