@@ -40,7 +40,9 @@ Clearly, the linear solution has a better performance than the exponential one.
 - What clean code principles you have been used, and why?
 
 Effective naming strategy: variable names are meaningful, making easy to a developer understand the code.
-K.I.S.S.: The code is simple, avoiding the use of unnecessary libraries and functions
+
+K.I.S.S.: The code is simple, avoiding the use of unnecessary libraries and functions.
+
 DRY (Don't Repeat Yourself): Every function as has the same parameter so is easy to interchange the function without modify the user interface.
 
 - Bonus: can you make your code recursive? If yes, what would be your time and space complexity?
