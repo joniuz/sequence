@@ -17,7 +17,7 @@ if __name__ == '__main__':
 		position = int(input("Enter the element position: "))
 
 		if position <= 0:
-			print("\nPlease enter a positive integer")
+			print("\nPlease enter a positive integer.")
 		else:
 			# Record the initial time to calculate the execution time
 			start_time = time.time()
